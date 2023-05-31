@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Flaunchpad\u002Fdetail","\u002Flaunchpad","\u002Flaunchpad\u002Flist","\u002Fstaking"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
